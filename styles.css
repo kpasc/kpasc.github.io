@@ -17,12 +17,20 @@ h1.main_header
 	font-size: 30px;
 }
 
+h2.secondary_header
+{
+	text-align: left;
+	color: black;
+	font-size: 30px;
+}
+
 p {
   color: red;
 }
 
 
-p.links_flex_box {
+p.links_flex_box 
+{
 	display:flex;
 	flex-wrap: wrap;
 	background-color: powderblue;
@@ -37,4 +45,17 @@ p.links_flex_box {
 	border-color: black;
 	padding-top: 4px;
 	padding-bottom: 4px;
+}
+
+p.image_flex_box 
+{
+  display:grid;
+  grid-template-columns:repeat(2, 1fr);
+}
+
+.uniform-image {
+  width: 600px;
+  height: 400px;         /* Forces all images to these exact dimensions */
+  object-fit: cover;     /* Crops and centers the image without stretching it */
+  object-position: center; /* Optional: ensures the crop focuses on the center */
 }
