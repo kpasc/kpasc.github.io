@@ -14,23 +14,12 @@ product: Generic Product
 
 # TODO
 
-<!--
-# This is where I plan to keep my common recipes so I can stop going to blogs that may or may not be active.
--->
-
-
-
-
 <p class="links_flex_box">
 <a href="/btfb">BTFB</a>
 <a href="/antifa">ANTIFA</a>
 <a href="/books">My Books</a>
 <a href="/recipes">My Favorite Recipes</a>
 </p>
-
-
-
-
 
 <!-- 
 [BTFB](/btfb)
