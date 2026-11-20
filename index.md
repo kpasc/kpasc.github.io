@@ -1,16 +1,11 @@
-<!--
-<!DOCTYPE html>
-<html>
-<head>
-	<link rel='stylesheet' href="styles.css">
-</head>
-<body>
+---
+title: "My site will be here from now on"
+sidebar: generic
+product: Generic Product
+type: homepage
+---
 
-<h1 class="main_header">
-This is my website. There are many like it, but this one is mine.
-</h1>
-
-
+# This is my website. There are many like it, but this one is mine.
 
 <p class="links_flex_box">
 <a href="btfb.html">BTFB</a>
@@ -18,15 +13,3 @@ This is my website. There are many like it, but this one is mine.
 <a href="books.html">My Books</a>
 <a href="recipes.html">My Favorite Recipes</a>
 </p>
-
-</body>
-</html>
-
--->
-
----
-title: "Sample 1: The Beginnings"
-sidebar: generic
-product: Generic Product
-type: homepage
----

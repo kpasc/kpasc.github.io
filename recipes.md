@@ -3,6 +3,14 @@ layout: page
 title: My Recipes
 permalink: recipes
 ---
+---
+title: "Sample 1: The Beginnings"
+sidebar: generic
+product: Generic Product
+type: homepage
+layout: page
+---
+
 <!----
 <!DOCTYPE html>
 <html>
