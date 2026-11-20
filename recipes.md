@@ -30,8 +30,8 @@ permalink: recipes
 -->
 
 <p class="image_flex_box">
-	<img src="recipes\tamale_pie_1.jpg" alt="1" class="uniform-image">
-    <img src="recipes\tamale_pie_2.jpg" alt="2" class="uniform-image">
+	<img src="\images\recipes\tamale_pie_1.jpg" alt="1" class="uniform-image">
+    <img src="\images\recipes\tamale_pie_2.jpg" alt="2" class="uniform-image">
 </p>
 
 
