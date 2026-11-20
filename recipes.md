@@ -35,7 +35,7 @@ permalink: recipes
 </p>
 
 
-**Black Bean and Sweet Potato Base Ingredients:**
+### Black Bean and Sweet Potato Base Ingredients:
 
 - 2 tablespoons extra virgin olive oil
 - 2 cups diced onion
