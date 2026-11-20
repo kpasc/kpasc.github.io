@@ -17,10 +17,12 @@ permalink: /recipes/
 <a href="/recipes">My Favorite Recipes</a>
 </p>
 
+<!-- 
 [BTFB](/btfb)
 [Antifa](/antifa)
 [Books](/books)
 [recipes](/recipes)
+-->
 
 ## Black Bean Tamale Pie with Sweet Potato + Corn (Vegetarian)
 
