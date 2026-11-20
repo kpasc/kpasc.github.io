@@ -16,4 +16,3 @@ permalink: /
 <a href="/recipes">My Favorite Recipes</a>
 </p>
 
-## test

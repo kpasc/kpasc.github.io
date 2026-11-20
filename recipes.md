@@ -15,7 +15,7 @@ product: Generic Product
 # TODO
 
 <p class="links_flex_box">
-<a href="/home">Home</a>
+<a href="/">Home</a>
 <a href="/btfb">BTFB</a>
 <a href="/antifa">ANTIFA</a>
 <a href="/books">My Books</a>

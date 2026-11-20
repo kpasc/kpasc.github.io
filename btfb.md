@@ -14,7 +14,7 @@ document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </script>
 
 <p class="links_flex_box">
-<a href="/home">Home</a>
+<a href="/">Home</a>
 <a href="/antifa">ANTIFA</a>
 <a href="/books">My Books</a>
 <a href="/recipes">My Favorite Recipes</a>
