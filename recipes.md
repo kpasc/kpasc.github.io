@@ -2,7 +2,6 @@
 title: My Recipes
 sidebar: generic
 product: Generic Product
-layout: page
 permalink: /recipes/
 ---
 
