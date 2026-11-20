@@ -1,14 +1,9 @@
 ---
-layout: page
 title: My Recipes
-permalink: recipes
----
----
-title: "Sample 1: The Beginnings"
 sidebar: generic
 product: Generic Product
-type: homepage
 layout: page
+permalink: recipes
 ---
 
 <!----
@@ -38,12 +33,9 @@ This is where I plan to keep my common recipes so I can stop going to blogs that
 </p>
 
 
- Lets put the recipe here and we can format later 
-<h1 class="main_header">
--->
-Black Bean Tamale Pie with Sweet Potato + Corn (Vegetarian)
+## Black Bean Tamale Pie with Sweet Potato + Corn (Vegetarian)
 
-<!--
+
 <hr>
 </h1>
 
@@ -56,7 +48,7 @@ Black Bean Tamale Pie with Sweet Potato + Corn (Vegetarian)
 
 
 <h2 class="secondary_header">
--->
+
 
 **Black Bean and Sweet Potato Base Ingredients:**
 
@@ -76,7 +68,7 @@ Black Bean Tamale Pie with Sweet Potato + Corn (Vegetarian)
 - 2 tablespoons freshly squeezed lime juice
 - 1 heaping cup grated cheddar cheese
 
-<!--
+
 Cornbread Topping Ingredients:
 <ul>
 	<li>½ cup unsweetened non-dairy milk</li>
@@ -128,4 +120,3 @@ Cooking Insructions:
 
 </body>
 </html>
--->
