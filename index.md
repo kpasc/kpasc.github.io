@@ -3,6 +3,7 @@ title: My Website
 sidebar: generic
 product: Generic Product
 type: homepage
+layout: default
 ---
 
 <link rel='stylesheet' href="styles.css">

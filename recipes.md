@@ -3,6 +3,7 @@ title: My Recipes
 sidebar: generic
 product: Generic Product
 permalink: /recipes/
+layout: default
 ---
 
 <link rel='stylesheet' href="styles.css">
