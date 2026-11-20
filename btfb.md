@@ -1,9 +1,9 @@
 ---
-title: My Recipes
-description: Place to store my favorite things to make and eat
+title: BTFB
+description: Our College Football Home
 sidebar: generic
 product: Generic Product
-permalink: /recipes/
+permalink: /btfb/
 layout: default
 ---
 

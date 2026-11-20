@@ -1,9 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<link rel='stylesheet' href="styles.css">
-</head>
-<body>
+---
+title: ANTIFA
+description: Let fascists burn
+sidebar: generic
+product: Generic Product
+permalink: /antifa/
+layout: default
+---
+
+<link rel='stylesheet' href="styles.css">
 
 <h1 class="main_header">
 

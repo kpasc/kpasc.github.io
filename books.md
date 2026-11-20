@@ -1,10 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<!--<link rel='stylesheet' href="styles.css">-->
-  
-</head>
-<body>
+---
+title: Books I've Read
+description: Place to store the list books I've read
+sidebar: generic
+product: Generic Product
+permalink: /books/
+layout: default
+---
+
+<link rel='stylesheet' href="styles.css">
 
 <h1 class="main_header">
 I like books. They make me focus better!
