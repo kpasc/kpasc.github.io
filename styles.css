@@ -44,7 +44,7 @@ p.links_flex_box
 	gap: 50px;
 	border-top: 4px solid;
 	border-bottom: 4px solid;
-	border-color: black;
+	/* border-color: black; */
 	padding-top: 4px;
 	padding-bottom: 4px;
 }
