@@ -9,10 +9,7 @@ layout: default
 
 <link rel='stylesheet' href="styles.css">
 
-
-<h1 class="main_header">
-BTFB 2026 (Year 2029)
-</h1>
+# BTFB 2026 (Year 2032)
 
 <script>
 document.getElementById("demo").innerHTML = "Hello JavaScript!";
@@ -25,13 +22,4 @@ document.getElementById("demo").innerHTML = "Hello JavaScript!";
 <a href="/recipes">My Favorite Recipes</a>
 </p>
 
-<p>
-I'm not actually sure Minnesota will ever lose. Other past contenders like Air Force (Joey Chestnut) and Coastal Carolina (Larry David) are going to be bad teams for a long time and not sure they will compete before they lose interest. 
-
-Both are still 2 star schools
-</p>
-
-
-
-</body>
-</html>
+# Current Champion: Minnesota Golden Gophers!
