@@ -6,21 +6,6 @@ layout: page
 permalink: recipes
 ---
 
-<!----
-<!DOCTYPE html>
-<html>
-<head>
-	<link rel='stylesheet' href="styles.css">
-</head>
-<body>
-
-<h1 class="main_header">
-# This is where I plan to keep my common recipes so I can stop going to blogs that may or may not be active.
-This is where I plan to keep my common recipes so I can stop going to blogs that may or may not be active.
-</h1>
-
--->
-
 # This is where I plan to keep my common recipes so I can stop going to blogs that may or may not be active.
 
 
@@ -32,19 +17,13 @@ This is where I plan to keep my common recipes so I can stop going to blogs that
 <a href="recipes.html">My Favorite Recipes</a>
 </p>
 
+BTFB [BTFB](/btfb)
+ANTIFA [Antifa](/antifa)
 
 ## Black Bean Tamale Pie with Sweet Potato + Corn (Vegetarian)
-
-
-<hr>
-</h1>
-
-<p class="image_flex_box">
-	<img src="C:\Users\kobyp\OneDrive\antifa-website\images\recipes\tamale_pie_1.jpg" alt="1" class="uniform-image">
-    <img src="C:\Users\kobyp\OneDrive\antifa-website\images\recipes\tamale_pie_2.jpg" alt="2" class="uniform-image">
-</p>
-
-<hr>
+	
+![tamale pie 1](\images\recipes\tamale_pie_1.jpg)
+![tamale pie 1](\images\recipes\tamale_pie_2.jpg)
 
 
 **Black Bean and Sweet Potato Base Ingredients:**
