@@ -1,7 +1,8 @@
+# Theme setting (do not change unless switching themes)
+theme: jekyll-theme-merlot
+
 title: My Website
 description: A site about my work and projects
 author: kp
 email: kp@example.com
 
-# Theme setting (do not change unless switching themes)
-theme: jekyll-theme-merlot
