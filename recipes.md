@@ -3,7 +3,7 @@ title: My Recipes
 sidebar: generic
 product: Generic Product
 layout: page
-permalink: recipes
+permalink: /recipes/
 ---
 
 <link rel='stylesheet' href="styles.css">
