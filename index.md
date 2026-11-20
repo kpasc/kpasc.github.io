@@ -1,6 +1,5 @@
 ---
-title: My Website
-type: homepage
+title: My Homepage
 layout: default
 permalink: /
 ---
