@@ -11,8 +11,8 @@ layout: default
 
 
 <p class="links_flex_box">
-<a href="btfb.html">BTFB</a>
-<a href="antifa.html">ANTIFA</a>
-<a href="books.html">My Books</a>
-<a href="recipes.html">My Favorite Recipes</a>
+<a href="/btfb">BTFB</a>
+<a href="/antifa">ANTIFA</a>
+<a href="/books">My Books</a>
+<a href="/recipes">My Favorite Recipes</a>
 </p>
