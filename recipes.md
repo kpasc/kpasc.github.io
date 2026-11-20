@@ -6,9 +6,11 @@ layout: page
 permalink: recipes
 ---
 
+<head>
+	<link rel='stylesheet' href="styles.css">
+</head>
+
 # This is where I plan to keep my common recipes so I can stop going to blogs that may or may not be active.
-
-
 
 <p class="links_flex_box">
 <a href="btfb.html">BTFB</a>
@@ -17,8 +19,10 @@ permalink: recipes
 <a href="recipes.html">My Favorite Recipes</a>
 </p>
 
-BTFB [BTFB](/btfb)
-ANTIFA [Antifa](/antifa)
+[BTFB](/btfb)
+[Antifa](/antifa)
+[Books](/books)
+[recipes](/recpies)
 
 ## Black Bean Tamale Pie with Sweet Potato + Corn (Vegetarian)
 	
