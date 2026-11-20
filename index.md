@@ -1,8 +1,8 @@
 ---
 title: My Homepage
 description: 
-layout: default
 permalink: /
+layout: default
 ---
 
 <link rel='stylesheet' href="styles.css">
