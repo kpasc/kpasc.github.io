@@ -47,9 +47,6 @@ This is where I plan to keep my common recipes so I can stop going to blogs that
 <hr>
 
 
-<h2 class="secondary_header">
-
-
 **Black Bean and Sweet Potato Base Ingredients:**
 
 - 2 tablespoons extra virgin olive oil
@@ -90,12 +87,12 @@ Serving Ingredients:
 	<li>diced avocado</li>
 	<li>salsa</li>
 	<li>sour cream</li>
-</h2>
+</ul>
 
 <hr>
 
-<h3>
-Cooking Insructions:
+
+### Cooking Insructions:
 <ol>
 	<li>Prepare the base: Warm the oil in a large skillet over medium heat. (If you use a cast iron skillet or other oven-proof skillet, all the better, as you’ll be able to transfer the skillet right into the oven when you bake the tamale pie.) Once the oil is warm, add the onion, garlic, and a small pinch of salt to the skillet. Cook, stirring occasionally, for five minutes, before adding the red pepper, the ½ teaspoon of salt, freshly ground black pepper to taste, cumin, coriander, and chili flakes. Cook for a couple more minutes , until the peppers to soften.</li>
 	<br>
@@ -110,13 +107,4 @@ Cooking Insructions:
 	<li>Assemble the tamale pie: Sprinkle the grated cheddar cheese over the bean and vegetable mixture in the skillet. Pour the cornbread batter over top, using the back of a spoon or a spatula to spread it out into an even layer that covers the entire top of the dish. Alternatively, if not using an ovenproof skillet, transfer the bean and vegetable mixture into a casserole dish, sprinkle with the cheese, and top with the cornbread batter.</li>
 	<br>
 	<li>Transfer into the oven and bake for 30 minutes.</li>
-<ol>
-
-</h3>
-
-
-
-
-
-</body>
-</html>
+</ol>
