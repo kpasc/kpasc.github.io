@@ -5,6 +5,8 @@ product: Generic Product
 type: homepage
 ---
 
+<link rel='stylesheet' href="styles.css">
+
 # This is my website. There are many like it, but this one is mine.
 
 <p class="links_flex_box">
