@@ -6,9 +6,7 @@ layout: page
 permalink: recipes
 ---
 
-<head>
-	<link rel='stylesheet' href="styles.css">
-</head>
+<link rel='stylesheet' href="styles.css">
 
 # This is where I plan to keep my common recipes so I can stop going to blogs that may or may not be active.
 
