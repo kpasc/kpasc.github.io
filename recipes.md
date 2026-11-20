@@ -1,19 +1,24 @@
 ---
 title: My Recipes
+description: Place to store my favorite things to make and eat
 sidebar: generic
 product: Generic Product
 permalink: /recipes/
 layout: default
 ---
 
+<head>
 <link rel='stylesheet' href="styles.css">
+</head>
 
+<!--
 # This is where I plan to keep my common recipes so I can stop going to blogs that may or may not be active.
+-->
 
 <p class="links_flex_box">
-<a href="btfb.html">BTFB</a>
-<a href="antifa.html">ANTIFA</a>
-<a href="books.html">My Books</a>
+<a href="/btfb">BTFB</a>
+<a href="/antifa">ANTIFA</a>
+<a href="/books">My Books</a>
 <a href="/recipes">My Favorite Recipes</a>
 </p>
 
