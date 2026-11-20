@@ -1,3 +1,4 @@
+/*
 body {
   background-color: powderblue;
 }
@@ -28,12 +29,13 @@ p {
   color: red;
 }
 
+*/
 
 p.links_flex_box 
 {
 	display:flex;
 	flex-wrap: wrap;
-	background-color: powderblue;
+	/* background-color: powderblue; */
 	margin: 0px;
 	padding: 0px;
 	font-size: 30px;
