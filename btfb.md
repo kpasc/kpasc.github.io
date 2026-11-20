@@ -1,7 +1,7 @@
 ---
 title: BTFB
 description: Our College Football Home
-permalink: /btfb/
+permalink: /btfb
 layout: default
 ---
 

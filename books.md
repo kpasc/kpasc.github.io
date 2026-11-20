@@ -1,7 +1,7 @@
 ---
 title: Books I've Read
 description: Place to store the list books I've read
-permalink: /books/
+permalink: /books
 layout: default
 ---
 

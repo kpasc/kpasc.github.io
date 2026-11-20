@@ -1,7 +1,7 @@
 ---
 title: ANTIFA
 description: Let fascists burn
-permalink: /antifa/
+permalink: /antifa
 layout: default
 ---
 

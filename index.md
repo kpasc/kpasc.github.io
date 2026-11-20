@@ -2,7 +2,7 @@
 title: My Homepage
 description: 
 layout: default
-permalink: /home
+permalink: /
 ---
 
 <link rel='stylesheet' href="styles.css">
