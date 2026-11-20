@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Recipes
-permalink: recipes.md
+permalink: recipes
 ---
 <!----
 <!DOCTYPE html>
