@@ -4,7 +4,7 @@ description: Place to store my favorite things to make and eat
 sidebar: generic
 product: Generic Product
 permalink: /recipes/
-layout: default
+layout: page
 ---
 
 <link rel='stylesheet' href="styles.css">
