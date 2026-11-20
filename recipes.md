@@ -1,7 +1,7 @@
 ---
 title: My Recipes
 description: Place to store my favorite things to make and eat
-permalink: /recipes/
+permalink: /recipes
 layout: default
 ---
 
@@ -15,10 +15,10 @@ product: Generic Product
 # TODO
 
 <p class="links_flex_box">
+<a href="/home">Home</a>
 <a href="/btfb">BTFB</a>
 <a href="/antifa">ANTIFA</a>
 <a href="/books">My Books</a>
-<a href="/recipes">My Favorite Recipes</a>
 </p>
 
 <!-- 

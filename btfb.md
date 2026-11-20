@@ -1,8 +1,6 @@
 ---
 title: BTFB
 description: Our College Football Home
-sidebar: generic
-product: Generic Product
 permalink: /btfb/
 layout: default
 ---
@@ -16,7 +14,7 @@ document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </script>
 
 <p class="links_flex_box">
-<a href="/btfb">BTFB</a>
+<a href="/home">Home</a>
 <a href="/antifa">ANTIFA</a>
 <a href="/books">My Books</a>
 <a href="/recipes">My Favorite Recipes</a>

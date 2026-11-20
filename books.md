@@ -1,8 +1,6 @@
 ---
 title: Books I've Read
 description: Place to store the list books I've read
-sidebar: generic
-product: Generic Product
 permalink: /books/
 layout: default
 ---
@@ -13,9 +11,9 @@ layout: default
 
 
 <p class="links_flex_box">
+<a href="/home">Home</a>
 <a href="/btfb">BTFB</a>
 <a href="/antifa">ANTIFA</a>
-<a href="/books">My Books</a>
 <a href="/recipes">My Favorite Recipes</a>
 </p>
 
