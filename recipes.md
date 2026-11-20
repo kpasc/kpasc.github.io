@@ -14,7 +14,7 @@ permalink: /recipes/
 <a href="btfb.html">BTFB</a>
 <a href="antifa.html">ANTIFA</a>
 <a href="books.html">My Books</a>
-<a href="recipes.md">My Favorite Recipes</a>
+<a href="/recipes">My Favorite Recipes</a>
 </p>
 
 [BTFB](/btfb)
