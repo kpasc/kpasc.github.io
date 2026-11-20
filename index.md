@@ -1,7 +1,5 @@
 ---
 title: My Website
-sidebar: generic
-product: Generic Product
 type: homepage
 layout: default
 ---
