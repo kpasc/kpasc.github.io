@@ -1,5 +1,5 @@
 ---
-title: "My site will be here from now on"
+title: My Website
 sidebar: generic
 product: Generic Product
 type: homepage
@@ -10,8 +10,8 @@ type: homepage
 # This is my website. There are many like it, but this one is mine.
 
 <p class="links_flex_box">
-<a href="btfb.html">BTFB</a>
-<a href="antifa.html">ANTIFA</a>
-<a href="books.html">My Books</a>
+<a href="/btfb">BTFB</a>
+<a href="/antifa">ANTIFA</a>
+<a href="/books">My Books</a>
 <a href="/recipes">My Favorite Recipes</a>
 </p>
