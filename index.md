@@ -2,6 +2,7 @@
 title: My Website
 type: homepage
 layout: default
+permalink: /
 ---
 
 <link rel='stylesheet' href="styles.css">
