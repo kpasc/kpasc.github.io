@@ -23,9 +23,16 @@ permalink: recipes
 [recipes](/recpies)
 
 ## Black Bean Tamale Pie with Sweet Potato + Corn (Vegetarian)
-	
+
+<!--
 ![tamale pie 1](\images\recipes\tamale_pie_1.jpg)
 ![tamale pie 1](\images\recipes\tamale_pie_2.jpg)
+-->
+
+<p class="image_flex_box">
+	<img src="recipes\tamale_pie_1.jpg" alt="1" class="uniform-image">
+    <img src="recipes\tamale_pie_2.jpg" alt="2" class="uniform-image">
+</p>
 
 
 **Black Bean and Sweet Potato Base Ingredients:**
@@ -47,45 +54,41 @@ permalink: recipes
 - 1 heaping cup grated cheddar cheese
 
 
-Cornbread Topping Ingredients:
-<ul>
-	<li>½ cup unsweetened non-dairy milk</li>
-	<li>½ teaspoon apple cider vinegar</li>
-	<li>1 cup cornmeal</li>
-	<li>2 tablespoons light spelt or all purpose flour</li>
-	<li>1 ½ teaspoons baking powder</li>
-	<li>½ teaspoon baking soda</li>
-	<li>½ teaspoon fine sea salt</li>
-	<li>2 large eggs</li>
-	<li>2 tablespoons extra virgin olive oil</li>
-	<li>½ cup corn kernels (thawed if frozen)</li>
-	<li>½ cup diced red bell peppers</li>
-	<li>2 tablespoons finely chopped fresh cilantro</li>
-</ul>
+### Cornbread Topping Ingredients:
 
-Serving Ingredients:
-<ul>
-	<li>diced avocado</li>
-	<li>salsa</li>
-	<li>sour cream</li>
-</ul>
+- ½ cup unsweetened non-dairy milk
+- ½ teaspoon apple cider vinegar
+- 1 cup cornmeal
+- 2 tablespoons light spelt or all purpose flour
+- 1 ½ teaspoons baking powder
+- ½ teaspoon baking soda
+- ½ teaspoon fine sea salt
+- 2 large eggs
+- 2 tablespoons extra virgin olive oil
+- ½ cup corn kernels (thawed if frozen)
+- ½ cup diced red bell peppers
+- 2 tablespoons finely chopped fresh cilantro
 
-<hr>
+
+### Serving Ingredients:
+- diced avocado
+- salsa
+- sour cream
 
 
 ### Cooking Insructions:
-<ol>
-	<li>Prepare the base: Warm the oil in a large skillet over medium heat. (If you use a cast iron skillet or other oven-proof skillet, all the better, as you’ll be able to transfer the skillet right into the oven when you bake the tamale pie.) Once the oil is warm, add the onion, garlic, and a small pinch of salt to the skillet. Cook, stirring occasionally, for five minutes, before adding the red pepper, the ½ teaspoon of salt, freshly ground black pepper to taste, cumin, coriander, and chili flakes. Cook for a couple more minutes , until the peppers to soften.</li>
-	<br>
-	<li>Stir in the corn, black beans, and sweet potato, followed by the vegetable broth. Bring to a simmer over medium heat and cook, stirring occasionally, until the sweet potatoes have softened and are fork-tender, about 20 minutes or so.</li>
-	<br>
-	<li>Remove from the heat and stir in the lime juice.</li>
-	<br>
-	<li>Preheat the oven to 350 degrees Fahrenheit.</li>
-	<br>
-	<li>Prepare the cornbread topping: Combine the non-dairy milk and apple cider vinegar together in a small dish to ‘curdle.’ In a large bowl, stir together the cornmeal, flour, baking powder and soda, and salt. In a smaller bowl, whisk together the eggs and add the ‘curdled’ milk and oil. Add the wet ingredients to the dry ingredients and whisk to combine. Fold in the corn, red pepper, and cilantro.</li>
-	<br>
-	<li>Assemble the tamale pie: Sprinkle the grated cheddar cheese over the bean and vegetable mixture in the skillet. Pour the cornbread batter over top, using the back of a spoon or a spatula to spread it out into an even layer that covers the entire top of the dish. Alternatively, if not using an ovenproof skillet, transfer the bean and vegetable mixture into a casserole dish, sprinkle with the cheese, and top with the cornbread batter.</li>
-	<br>
-	<li>Transfer into the oven and bake for 30 minutes.</li>
-</ol>
+
+1. Prepare the base: Warm the oil in a large skillet over medium heat. (If you use a cast iron skillet or other oven-proof skillet, all the better, as you’ll be able to transfer the skillet right into the oven when you bake the tamale pie.) Once the oil is warm, add the onion, garlic, and a small pinch of salt to the skillet. Cook, stirring occasionally, for five minutes, before adding the red pepper, the ½ teaspoon of salt, freshly ground black pepper to taste, cumin, coriander, and chili flakes. Cook for a couple more minutes , until the peppers to soften.
+
+2. Stir in the corn, black beans, and sweet potato, followed by the vegetable broth. Bring to a simmer over medium heat and cook, stirring occasionally, until the sweet potatoes have softened and are fork-tender, about 20 minutes or so.
+
+3. Remove from the heat and stir in the lime juice.
+
+4. Preheat the oven to 350 degrees Fahrenheit.
+
+5. Prepare the cornbread topping: Combine the non-dairy milk and apple cider vinegar together in a small dish to ‘curdle.’ In a large bowl, stir together the cornmeal, flour, baking powder and soda, and salt. In a smaller bowl, whisk together the eggs and add the ‘curdled’ milk and oil. Add the wet ingredients to the dry ingredients and whisk to combine. Fold in the corn, red pepper, and cilantro.
+
+6. Assemble the tamale pie: Sprinkle the grated cheddar cheese over the bean and vegetable mixture in the skillet. Pour the cornbread batter over top, using the back of a spoon or a spatula to spread it out into an even layer that covers the entire top of the dish. Alternatively, if not using an ovenproof skillet, transfer the bean and vegetable mixture into a casserole dish, sprinkle with the cheese, and top with the cornbread batter.
+
+7. Transfer into the oven and bake for 30 minutes.
+
